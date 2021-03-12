@@ -23,5 +23,5 @@
 ### Me encontre por aí
 <p align="left">
 <a href="https://www.linkedin.com/in/kissabrito/" target="blank"><img align="center" src="https://github.com/kissabrito/kissabrito/blob/main/img/linkedin.png" alt="Aíkssa Brito" height="30" width="30" /></a>
-<a href="mailto:aikssabrito@gmail.com" target="blank"><img align="center" src="https://github.com/kissabrito/kissabrito/blob/main/img/email.png" alt="aikssabrito@gmail.com" height="30" width="30" /></a>
+<a href="mailto:kissa.brito@gmail.com" target="blank"><img align="center" src="https://github.com/kissabrito/kissabrito/blob/main/img/email.png" alt="kissa.brito@gmail.com" height="30" width="30" /></a>
 </p>
